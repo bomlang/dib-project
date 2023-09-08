@@ -1,7 +1,7 @@
 function Home() {
     return(
         <>
-          <div>제발 되기를</div>
+          <h1 className="text-[100px]">기분좋앙</h1>
         </>
     )
 }
